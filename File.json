@@ -1,0 +1,9 @@
+{
+
+    "test":"brandx",
+    "brands":[
+    {"name":"samsung"},
+    {"name":"infinix"},
+    {"name":"oppo"}
+]
+}

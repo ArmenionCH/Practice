@@ -1,0 +1,20 @@
+Parse a JSON string – cJSON_Parse
+
+Print JSON to string – cJSON_Print / cJSON_PrintUnformatted
+
+Free memory – cJSON_Delete
+
+Get object field – cJSON_GetObjectItem
+
+Get array item – cJSON_GetArrayItem / cJSON_GetArraySize
+
+Check type – cJSON_IsString / cJSON_IsNumber
+
+Read value – valuestring / valueint / valuedouble
+
+Create object / array – cJSON_CreateObject / cJSON_CreateArray
+
+Create value – cJSON_CreateString / cJSON_CreateNumber
+
+Add to object / array – cJSON_AddItemToObject / cJSON_AddItemToArray
+
