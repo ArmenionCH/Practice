@@ -11,4 +11,6 @@ if( !$conn){
 
 $input = $_POST['input'];
 
+
+echo ($input);
 ?>
